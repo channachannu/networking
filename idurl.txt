@@ -1,0 +1,10 @@
+3475
+3477
+3470 https://wiki.tcl-lang.org/page/array
+3471 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwjNyLDUoK7eAhULu48KHQpMBK8QFjABegQIAxAB&url=https%3A%2F%2Fwww.tcl.tk%2Fman%2Ftcl8.4%2FTclCmd%2Farray.htm&usg=AOvVaw3VZxF954WBKF9OXgq7wRC4
+3472 https://www.tcl.tk/man/tcl8.4/TclCmd/array.htm
+3473 https://gist.github.com/bkamapantula/1306799/revisions
+3474 https://www.google.com/search?client=ubuntu&channel=fs&q=net+flow&ie=utf-8&oe=utf-8
+3475 https://www.google.com/search?client=ubuntu&hs=PMD&channel=fs&ei=kmvYW83CLonmvgTu9riQCQ&q=net+flow+in+ntop&oq=net+flow+in+ntop&gs_l=psy-ab.3...6833.8529.0.8726.8.7.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..8.0.0....0.-_VD7BqLJU0
+3476 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiug5eAsa7eAhUIto8KHb7FDUEQFjAAegQICRAB&url=https%3A%2F%2Fwww.ntop.org%2Fsolutions%2Fflow-based-monitoring%2F&usg=AOvVaw3faFVbhuEBX36dv1wwqBJk
+3477 https://www.ntop.org/solutions/flow-based-monitoring/
